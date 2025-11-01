@@ -1,5 +1,6 @@
-openai=2.6.1
-python-dotenv=1.2.1
-pydub=0.25.1
-instabot=0.117.0
-pillow=11.3.0
+openai==2.6.1
+python-dotenv==1.2.1
+pydub==0.25.1
+instabot==0.117.0
+pillow==11.3.0
+tiktoken==0.12.0
